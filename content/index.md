@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to The World of Vistularia
 ---
+# [[The Cartas Empire]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[Map of the Cartas Empire.jpg]]
