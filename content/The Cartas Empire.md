@@ -40,6 +40,7 @@ As such **Crime & Smuggling guilds** ([[The Crimson Smuggling Guild]], [[The Tri
 > [[The Adventurers Guild]] | [[The Tricksters Guild]]|
 > [[The Tinkerers Guild]] | [[The Guild of Lutes and Luck]]|
 > [[The Merchants Guild]] | ---|
+> [[The Guild of Healing]] | ---|
 
 ## Tribulations of Trade
 Trade outside the continent and thus the input of new resources to the continent, has been stalled for the last 500 years. Exit from the continent in the North is blocked by the [[Northern Wastelands]], cruelly cold and brutal lands of which explorers have never returned. 
@@ -47,9 +48,9 @@ Trade outside the continent and thus the input of new resources to the continent
 Additionally, any escape beyond the continent by Sea has been halted by the [[Ader Vortex]], a brutal current that destroys any ship that ventures more than several miles from the coast. As such visitors to the continent are unheard of and the Empire has concluded that civilized society outside of the continent must be devastated, savage, and dangerous to interact with. 
 
 ## Advent of Adventurers
-While the legendary heroes found their beginnings as adventurers, the role of adventurers had fallen out of practice by 100 A.U. By this time, most of the remnants of  terrible monsters had been wiped out and all that remained were the pesky creatures that were hardly left a stable income for the adventurers. 
+While the legendary heroes found their beginnings as adventurers, the role of adventurers had fallen out of practice by 100 A.U. By this time, most of the remnants of  terrible monsters had been wiped out and all that remained were the pesky creatures that were hardly left a stable income for the adventurers. The Northern Forest was the only area known to have Monsters roaming, albeit ones that were quite strong.
 
-However all that has changed in the **last 75 years**. Monsters began to emerge again in the forgotten regions of the continent and they soon found their way into threatening rural populations. Combined with the public distruct, decline of magic, and the increase in crime, the Cartas Empire officialized the [[The Adventurers Guild]], an entity outside of government control to manage and contract new parties of adventurers. While the [[The Royal Cartesian Knights]] and the [[The Tenfold Heralds]] were able to take on larger threats, the adventuring guild began to nurture the growth of new adventurers, albeit hard to convince many to take on the arduous and dangerous lifestyle. 
+However all that has changed in the **last 75 years**. Monsters began to emerge again in the forgotten regions of the continent and they soon found their way into threatening rural populations. Combined with the public distrust, decline of magic, and the increase in crime, the Cartas Empire officialized the [[The Adventurers Guild]], an entity outside of government control to manage and contract new parties of adventurers. While the [[The Royal Cartesian Knights]] and the [[The Tenfold Heralds]] - the mysterious ten strongest individuals on the continent - were able to take on larger threats, the adventuring guild began to nurture the growth of new adventurers, albeit hard to convince many to take on the arduous and dangerous lifestyle. 
 
 Currently, there has been a stall in adventurer growth and the Cartas Empire has just announced the implementation of **Officially Recognized Adventuring Parties**, where adventuring parties who prove themselves will be given sponsorship by the government in addition to access to both known and rumored government resources. 
 
@@ -131,7 +132,7 @@ While the daily life in the Cartas Empire is seemingly uninquisitive, recent and
 ### Mystery of the Great Unification
 **What happened during the Great Unification?** Who were the Legendary Six Heroes of the Unification? Why can nobody remember what happened before? Why are the records missing before the Great Unification? What happened to the other races in the Cartas Empire?
 ### Mystery of the Land
-What happens in the Glimmer Isles? What rests in the depths of the Jungle of Jewels? Why is there an unmapped region? What lines Titan's Scar? What created Crystal Crater?
+**Why is information classified about certain Cartesian regions?** What happens in the Glimmer Isles? What rests in the depths of the Jungle of Jewels? Why is there an unmapped region? What lines Titan's Scar? What created Crystal Crater?
 ### Mystery of the Divine
 **Why are there no more Oracles?** Why are there only 15 gods in the Cartesian Pantheon? Why are the Gods involvement diminishing? Where are the Morai?
 What does the last Oracle mean? What is the full Phoenix Saga?
