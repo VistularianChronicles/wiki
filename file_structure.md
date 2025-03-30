@@ -1,0 +1,278 @@
+# Quartz Obsidian Project File Structure
+
+- .gitattributes
+- **.github/**
+  - FUNDING.yml
+  - **ISSUE_TEMPLATE/**
+    - bug_report.md
+    - feature_request.md
+  - dependabot.yml
+  - **workflows/**
+    - ci.yaml
+    - deploy.yml
+    - docker-build-push.yaml
+- .gitignore
+- .node-version
+- .npmrc
+- **.obsidian/**
+  - app.json
+  - appearance.json
+  - community-plugins.json
+  - core-plugins.json
+  - **plugins/**
+    - **templater-obsidian/**
+      - data.json
+      - main.js
+      - manifest.json
+      - styles.css
+  - workspace.json
+- .prettierignore
+- .prettierrc
+- **.quartz-cache/**
+- CODE_OF_CONDUCT.md
+- Dockerfile
+- LICENSE.txt
+- README.md
+- combine_md.py
+- **content/**
+  - **Media/**
+    - **Descriptive/**
+      - Abandoned Buildings Beskarville.png
+      - Beskarville_Entrance.jpg
+      - PassingStars_Beskarville.jpg
+    - **Maps/**
+      - Map Hounds of Beskarville Base.jpg
+      - Map of Beskarville.jpg
+      - Map of the Cartas Empire.jpg
+      - Map-Passing Star Stones Ruins - Day.jpg
+      - Map-Passing Star Stones Ruins - Night.jpg
+  - The Cartas Empire.md
+  - index.md
+- generate_file_structure_md.py
+- globals.d.ts
+- index.d.ts
+- package-lock.json
+- package.json
+- **public/**
+  - 404.html
+  - **Media/**
+    - **Descriptive/**
+      - Abandoned-Buildings-Beskarville.png
+      - Beskarville_Entrance.jpg
+      - PassingStars_Beskarville.jpg
+    - **Maps/**
+      - Map-Hounds-of-Beskarville-Base.jpg
+      - Map-Passing-Star-Stones-Ruins---Day.jpg
+      - Map-Passing-Star-Stones-Ruins---Night.jpg
+      - Map-of-Beskarville.jpg
+      - Map-of-the-Cartas-Empire.jpg
+  - The-Cartas-Empire-og-image.webp
+  - The-Cartas-Empire.html
+  - index-og-image.webp
+  - index.css
+  - index.html
+  - index.xml
+  - postscript.js
+  - prescript.js
+  - sitemap.xml
+  - **static/**
+    - contentIndex.json
+    - **giscus/**
+      - dark.css
+      - light.css
+    - icon.png
+    - og-image.png
+  - **tags/**
+    - index.html
+- **quartz/**
+  - **.quartz-cache/**
+    - **fonts/**
+      - Schibsted+Grotesk-700
+      - Source+Sans+Pro-400
+    - transpiled-build.mjs
+    - transpiled-build.mjs.map
+  - bootstrap-cli.mjs
+  - bootstrap-worker.mjs
+  - build.ts
+  - cfg.ts
+  - **cli/**
+    - args.js
+    - constants.js
+    - handlers.js
+    - helpers.js
+  - **components/**
+    - ArticleTitle.tsx
+    - Backlinks.tsx
+    - Body.tsx
+    - Breadcrumbs.tsx
+    - Comments.tsx
+    - ConditionalRender.tsx
+    - ContentMeta.tsx
+    - Darkmode.tsx
+    - Date.tsx
+    - DesktopOnly.tsx
+    - Explorer.tsx
+    - Flex.tsx
+    - Footer.tsx
+    - Graph.tsx
+    - Head.tsx
+    - Header.tsx
+    - MobileOnly.tsx
+    - OverflowList.tsx
+    - PageList.tsx
+    - PageTitle.tsx
+    - RecentNotes.tsx
+    - Search.tsx
+    - Spacer.tsx
+    - TableOfContents.tsx
+    - TagList.tsx
+    - index.ts
+    - **pages/**
+      - 404.tsx
+      - Content.tsx
+      - FolderContent.tsx
+      - TagContent.tsx
+    - renderPage.tsx
+    - **scripts/**
+      - callout.inline.ts
+      - checkbox.inline.ts
+      - clipboard.inline.ts
+      - comments.inline.ts
+      - darkmode.inline.ts
+      - explorer.inline.ts
+      - graph.inline.ts
+      - mermaid.inline.ts
+      - popover.inline.ts
+      - search.inline.ts
+      - spa.inline.ts
+      - toc.inline.ts
+      - util.ts
+    - **styles/**
+      - backlinks.scss
+      - breadcrumbs.scss
+      - clipboard.scss
+      - contentMeta.scss
+      - darkmode.scss
+      - explorer.scss
+      - footer.scss
+      - graph.scss
+      - legacyToc.scss
+      - listPage.scss
+      - mermaid.inline.scss
+      - popover.scss
+      - recentNotes.scss
+      - search.scss
+      - toc.scss
+    - types.ts
+  - **i18n/**
+    - index.ts
+    - **locales/**
+      - ar-SA.ts
+      - ca-ES.ts
+      - cs-CZ.ts
+      - de-DE.ts
+      - definition.ts
+      - en-GB.ts
+      - en-US.ts
+      - es-ES.ts
+      - fa-IR.ts
+      - fi-FI.ts
+      - fr-FR.ts
+      - hu-HU.ts
+      - it-IT.ts
+      - ja-JP.ts
+      - ko-KR.ts
+      - lt-LT.ts
+      - nb-NO.ts
+      - nl-NL.ts
+      - pl-PL.ts
+      - pt-BR.ts
+      - ro-RO.ts
+      - ru-RU.ts
+      - th-TH.ts
+      - tr-TR.ts
+      - uk-UA.ts
+      - vi-VN.ts
+      - zh-CN.ts
+      - zh-TW.ts
+  - **plugins/**
+    - **emitters/**
+      - 404.tsx
+      - aliases.ts
+      - assets.ts
+      - cname.ts
+      - componentResources.ts
+      - contentIndex.tsx
+      - contentPage.tsx
+      - folderPage.tsx
+      - helpers.ts
+      - index.ts
+      - ogImage.tsx
+      - static.ts
+      - tagPage.tsx
+    - **filters/**
+      - draft.ts
+      - explicit.ts
+      - index.ts
+    - index.ts
+    - **transformers/**
+      - citations.ts
+      - description.ts
+      - frontmatter.ts
+      - gfm.ts
+      - index.ts
+      - lastmod.ts
+      - latex.ts
+      - linebreaks.ts
+      - links.ts
+      - ofm.ts
+      - oxhugofm.ts
+      - roam.ts
+      - syntax.ts
+      - toc.ts
+    - types.ts
+    - vfile.ts
+  - **processors/**
+    - emit.ts
+    - filter.ts
+    - parse.ts
+  - **static/**
+    - **giscus/**
+      - dark.css
+      - light.css
+    - icon.png
+    - og-image.png
+  - **styles/**
+    - base.scss
+    - callouts.scss
+    - custom.scss
+    - syntax.scss
+    - variables.scss
+  - **util/**
+    - clone.ts
+    - ctx.ts
+    - emoji.ts
+    - emojimap.json
+    - escape.ts
+    - fileTrie.test.ts
+    - fileTrie.ts
+    - glob.ts
+    - jsx.tsx
+    - lang.ts
+    - log.ts
+    - og.tsx
+    - path.test.ts
+    - path.ts
+    - perf.ts
+    - random.ts
+    - resources.tsx
+    - sourcemap.ts
+    - theme.ts
+    - trace.ts
+  - worker.ts
+- quartz.config.ts
+- quartz.layout.ts
+- quartz_docs.md
+- **templates/**
+  - note.md
+- tsconfig.json
