@@ -144,3 +144,5 @@ What does the last Oracle mean? What is the full Phoenix Saga?
 **What happened to Queen Elaine?** Why are riots in the kingdom growing among the villages? What is the mystery of the Abaragarza? Who are the Tenfold Heralds?
 Why have the Cambiare suddenly gained popularity? Who were the Pirate Lords of the Past? Who runs the Crimson Smuggling Guild?
 
+## Hidden Information
+Can you see this

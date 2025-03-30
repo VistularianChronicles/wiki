@@ -1,3 +1,16 @@
 @use "./base.scss";
 
+.hidden-info {
+    margin: 1em 0;
+    border: 1px dashed var(--gray);
+    padding: 1em;
+    background: var(--light);
+    .hidden-info-lock {
+      cursor: pointer;
+      color: var(--accent);
+      font-weight: bold;
+    }
+  }
+
+  
 // put your custom CSS here!

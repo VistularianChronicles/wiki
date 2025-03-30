@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import hiddenInfo from "./quartz/plugins/transformers/hiddenInfo"
 
 /**
  * Quartz 4 Configuration
@@ -55,6 +56,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      hiddenInfo(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
@@ -92,5 +94,9 @@ const config: QuartzConfig = {
     ],
   },
 }
+
+
+
+
 
 export default config
