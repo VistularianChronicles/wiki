@@ -14,3 +14,10 @@
 
   
 // put your custom CSS here!
+body {
+  background-image: url("/static/PHB-background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll; // optional: creates a parallax-like effect
+}
