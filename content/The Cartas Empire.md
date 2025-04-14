@@ -12,7 +12,7 @@ tags:
 
 # The World of Vistularia
 
-Welcome to the world of Vistularia. The continent you find yourselves in, Cartesia is one of mystique, wonder, and soul. Here reigns The Cartas Empire. Your adventure starts in the port city of **Portglassia**, as you each venture in to be registered as adventurers with the **Adventuring Guild**.
+Welcome to the world of Vistularia. The continent you find yourselves in, Cartesia is one of mystique, wonder, and soul. Here reigns The Cartas Empire. Your adventure starts in the port city of [[Portglassia]], as you each venture in to be registered as adventurers with the **Adventuring Guild**.
 
 # The Cartas Empire
 ## Politics and Government
