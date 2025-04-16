@@ -38,7 +38,7 @@ Defense: Sheriff Lando
 
 ### Society
 
-Races: 44% Human, 36% Dwarves, 19% Dwarves, 1% Elves
+Races: 44% Human, 36% Dwarves, 19% Gnomes, 1% Elves
 Population: 300
 Religous Precense: Chauntea, Shaundakul, Eilistraee
 

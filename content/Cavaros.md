@@ -20,7 +20,7 @@ tags:
 -
 
 # Cavaros
-
+![[Cavaros.png]]
 > **Size:** Large  
 > **Region:** Southwest Cartesia  
 > **Origin:** Old‑Age City — Dwarven  
@@ -36,7 +36,7 @@ A parliamentary assembly directs civic affairs, sharing power with the venerable
 
 - **Population:** ~712 000
     
-- **Racial Makeup:** Dwarves 64 %, Gnomes 17 %, Humans 14 %, Elves 5 %, Loxodon < 1 %
+- **Racial Makeup:** Dwarves 64 %, Gnomes 17 %, Humans 14 %, Elves 5 %, Tielfings < 1 %
     
 
 Anvil concerts, ember festivals, and ale‑soaked symposiums animate public squares. The city’s warren of interlinked structures forms natural boulevards of stone, where surface sunlight mingles with the inner glow of lava flumes carried by runic channels.
