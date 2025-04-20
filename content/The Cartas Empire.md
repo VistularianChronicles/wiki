@@ -4,9 +4,8 @@ draft: false
 tags:
 ---
 
-**Time Period**: [[The War of the Enlightened]]
-
-**World Period**: [[Dilatatio et Bellum]]
+> **Time Period** | [[The War of the Enlightened]] |
+> World Period | [[Dilatatio et Bellum]] |
 
 ![[Map of the Cartas Empire.jpg]]
 

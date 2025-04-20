@@ -5,21 +5,18 @@ tags:
   - CITY
   - LOCATION
 ---
- 
-### World Connections:
-
-**Node Type**: #LOCATION 
--
-**Node Sub-Type**: #CITY 
--
-**Date**: 
-**Time Period**: [[The War of the Enlightened]]
-**World Period**: [[Dilatatio et Bellum]]
--
-**Regions**: [[The Cartas Empire]], 
--
+ > **World** | **Connections** |
+> ---|---|
+> Type | #LOCATION  |
+> Sub-Type | #CITY  |
+> Status | #UNEXPLORED |
+> **Time Period** | --- |
+> Regions | [[The Cartas Empire]] |
+> Campaign | [[The War of the Enlightened]] |
+> World Period | [[Dilatatio et Bellum]] |
 
 # Cavaros
+
 ![[Cavaros.png]]
 > **Size:** Large  
 > **Region:** Southwest Cartesia  
@@ -73,11 +70,11 @@ A labyrinthine mine complex renowned for veins of living crystal that resonate w
 ### The Great Vaults of Cavaros
 
 Runed vault doors older than the city itself. Dragon‑scored stone and fused claw‑marks testify to failed breaches. Nobles, guilds, and even rival capitals trust their most prized relics to these seismic‑proof chambers.
-
+![[Cavaros_Vaults.jpg]]
 ### The White Palace
 
 Seat of Queen Sarthar. Its alabaster ramparts rise above rivers of slow‑moving lava, shimmering like a hearth‑fire crown at dusk.
-
+![[Cavaros_Capital_Hill.png]]
 ### Alabaster Auction House
 
 Where rune‑gilded contracts change hands for artifacts, airships, and sometimes kingdoms. Rumor links secret tunnels here to the Mine Metro.
@@ -155,3 +152,9 @@ Steam‑powered mine‑carts whisk workers, ore, and the occasional clandestine 
     
 - **Mayor Groth** — industrious administrator bridging the needs of miners and merchants
 -
+
+## Campaign Updates
+
+-
+
+## Hidden Information

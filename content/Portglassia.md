@@ -6,18 +6,15 @@ tags:
   - LOCATION
 ---
  
-### World Connections:
-
-**Node Type**: #LOCATION 
--
-**Node Sub-Type**: #CITY 
--
-**Date**: 
-**Time Period**: [[The War of the Enlightened]]
-**World Period**: [[Dilatatio et Bellum]]
--
-**Regions**: [[The Cartas Empire]], 
--
+> **World** | **Connections** |
+> ---|---|
+> Type | #LOCATION  |
+> Sub-Type | #CITY  |
+> Status | #EXPLORED |
+> **Time Period** | --- |
+> Regions | [[The Cartas Empire]] |
+> Campaign | [[The War of the Enlightened]] |
+> World Period | [[Dilatatio et Bellum]] |
 
 # Portglassia
 
@@ -207,8 +204,7 @@ Portglassia is more than a city—it is a threshold. Whether you are here to tra
 > Industries | Assorted Goods, Daily Household Magical Appliances, Printing Press Hub |
 
 
-# Campaign Updates
+## Campaign Updates
 
 
 ## Hidden Information
-Can you see this

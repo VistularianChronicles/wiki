@@ -6,20 +6,29 @@ tags:
   - LOCATION
 ---
  
-### World Connections:
 
-**Node Type**: #LOCATION 
--
-**Node Sub-Type**: #CITY 
--
-**Date**: 
-**Time Period**: [[The War of the Enlightened]]
-**World Period**: [[Dilatatio et Bellum]]
--
-**Regions**: [[The Cartas Empire]], 
--
+> **World** | **Connections** |
+> ---|---|
+> Type | #LOCATION |
+> Sub-Type | #TOWN |
+> **Time Period** | [[The War of the Enlightened]] |
+> Campaigns | [[Hounds of Beskarville]] |
+> World Period | [[Dilatatio et Bellum]] |
+> **Arcs** | --- |
+> Plot Arcs | [[The Monster Experiments]] |
+> **Notable Lore** | --- |
+> Events | [[The Great Unification]] |
+> Mysteries | [[Mystery of the Forgotten]] |
+> Items | [[The Amulet of Selune]] |
+> **Notable Characters** | --- |
+> Player Characters |  |
+> Characters | [[Sabine]], [[Chester]] |
+> Entities | [[Selune]] |
+> Organizations | [[The Knights of the Moon]], [[Hoth & Wampa]], [[The Order of Yellow]], |
+
+# Town of Beskarville
+
 ![[Beskarville_Entrance.jpg]]
-# Beskarville Statistics
 
 ### Geography
 
@@ -38,7 +47,7 @@ Defense: Sheriff Lando
 
 ### Society
 
-Races: 44% Human, 36% Dwarves, 19% Gnomes, 1% Elves
+Races: 44% Human, 36% Dwarves, 19% Dwarves, 1% Elves
 Population: 300
 Religous Precense: Chauntea, Shaundakul, Eilistraee
 
@@ -113,6 +122,9 @@ Sheriff and Mayor of the Town. He is the one who made the request to the adventu
 ### Sabine
 The town's unofficial representative. Kind woman and mother. Wears a moon necklace.
 
-
-
  
+## Campaign Updates
+
+-
+
+## Hidden Information
