@@ -5,7 +5,9 @@ tags:
   - CITY
   - LOCATION
 ---
- > **World** | **Connections** |
+# City of Cavaros
+
+> **World** | **Connections** |
 > ---|---|
 > Type | #LOCATION  |
 > Sub-Type | #CITY  |
@@ -14,8 +16,6 @@ tags:
 > Regions | [[The Cartas Empire]] |
 > Campaign | [[The War of the Enlightened]] |
 > World Period | [[Dilatatio et Bellum]] |
-
-# Cavaros
 
 ![[Cavaros.png]]
 > **Size:** Large  
@@ -152,9 +152,8 @@ Steam‑powered mine‑carts whisk workers, ore, and the occasional clandestine 
     
 - **Mayor Groth** — industrious administrator bridging the needs of miners and merchants
 -
-
 ## Campaign Updates
-
--
+- 
 
 ## Hidden Information
+- 

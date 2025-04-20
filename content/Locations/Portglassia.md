@@ -5,7 +5,8 @@ tags:
   - CITY
   - LOCATION
 ---
- 
+# City of Portglassia
+
 > **World** | **Connections** |
 > ---|---|
 > Type | #LOCATION  |
@@ -16,15 +17,13 @@ tags:
 > Campaign | [[The War of the Enlightened]] |
 > World Period | [[Dilatatio et Bellum]] |
 
-# Portglassia
-
 > **Titles**: _The Port Town of the East_, _The City of Water_, _The City of Whispers_  
 > **Region**: Southwest Cartesia  
 > **Size**: Medium  
 > **Origin**: New Age City (Post-Great Unification)  
 > **Population**: 712,000
 
-![[Portglassia_map.jpg]]
+![[content/Media/Maps/Portglassia_map.jpg]]
 Welcome to **Portglassia**, a thriving coastal gem along the southwestern edge of Cartesia. Known for its bustling docks, winding canals, and mysterious undercurrents—both literal and political—Portglassia stands at the crossroads of commerce, history, and adventure. Though not the largest city in the Cartas Empire, its cultural and strategic importance cannot be overstated. The city exudes a sense of transience and discovery; travelers pass through, whispers are exchanged, and opportunities arise.
 
 Home to the **Adventuring Guild's southern headquarters**, this year Portglassia is the starting point for many aspiring adventurers seeking fame and purpose in the evolving landscape of the Cartas Empire.
@@ -203,8 +202,9 @@ Portglassia is more than a city—it is a threshold. Whether you are here to tra
 > Exports | Agriculture, Trading Goods for Northern/Southern Port Towns, Aquaculture |
 > Industries | Assorted Goods, Daily Household Magical Appliances, Printing Press Hub |
 
-
 ## Campaign Updates
-
+- 
 
 ## Hidden Information
+- 
+

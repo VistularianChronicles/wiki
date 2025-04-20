@@ -3,18 +3,17 @@ title: The Cartas Empire
 draft: false
 tags:
 ---
+# The World of Vistularia
 
 > **Time Period** | [[The War of the Enlightened]] |
 > World Period | [[Dilatatio et Bellum]] |
 
-![[Map of the Cartas Empire.jpg]]
-
-# The World of Vistularia
-
 Welcome to the world of Vistularia. The continent you find yourselves in, Cartesia is one of mystique, wonder, and soul. Here reigns The Cartas Empire. Your adventure starts in the port city of [[Portglassia]], as you each venture in to be registered as adventurers with the **Adventuring Guild**.
 
 # The Cartas Empire
-## Politics and Government
+## ![[Map of the Cartas Empire.jpg]]
+
+Politics and Government
 The Cartas Empire is all you have known, a 'democracy' whose rule but moreso influence is felt throughout the land. In reality, this **parliamentary system** is often viewed as merely just a system placed to keep the races in harmonic accordance. 
 
 Despite the many parties that situate themselves as bastion's of hope for the plights of the common, the educated sentiment is that these demagogues merely conform to one of the two largest parties, the [[Modicus]] who believe in that societal conformity to the strengths and weaknesses of each race dictate their duty and thus the success of the empire, and the [[Cambiare]] who believe that the current societal hardship experienced comes from these archaic ideologies and that it is the individual who must be given the power to decide their societal, business, and legislative influence. From the perspective of the common, these abstract ideals are not rooted in any sort of tangible improvement and as such are not worth considering until the weeks of the local ballots each year. 
@@ -143,5 +142,8 @@ What does the last Oracle mean? What is the full Phoenix Saga?
 **What happened to Queen Elaine?** Why are riots in the kingdom growing among the villages? What is the mystery of the Abaragarza? Who are the Tenfold Heralds?
 Why have the Cambiare suddenly gained popularity? Who were the Pirate Lords of the Past? Who runs the Crimson Smuggling Guild?
 
+## Campaign Updates
+- 
+
 ## Hidden Information
-Can you see this
+- 
