@@ -2,9 +2,11 @@
 title: Portglassia
 draft: false
 tags:
-  - CITY
   - LOCATION
+  - CITY
+  - EXPLORED
 ---
+
 # City of Portglassia
 
 > **World** | **Connections** |
@@ -23,7 +25,7 @@ tags:
 > **Origin**: New Age City (Post-Great Unification)  
 > **Population**: 712,000
 
-![[content/Media/Maps/Portglassia_map.jpg]]
+![[Portglassia_map.png]]
 Welcome to **Portglassia**, a thriving coastal gem along the southwestern edge of Cartesia. Known for its bustling docks, winding canals, and mysterious undercurrents—both literal and political—Portglassia stands at the crossroads of commerce, history, and adventure. Though not the largest city in the Cartas Empire, its cultural and strategic importance cannot be overstated. The city exudes a sense of transience and discovery; travelers pass through, whispers are exchanged, and opportunities arise.
 
 Home to the **Adventuring Guild's southern headquarters**, this year Portglassia is the starting point for many aspiring adventurers seeking fame and purpose in the evolving landscape of the Cartas Empire.
@@ -161,21 +163,28 @@ This influx brings with it:
 ### Mayor C.C. Chim
 
 Leader of Portglassia, known for pragmatic diplomacy and a calm demeanor.
-
+![[Mayor Chim.png]]
 ### Akone Aleman
 
 Tinkerers Guild regional lead. Oversees trade, research, and artisanal innovation in magical devices.
-
+![[Akone_Aleman.png]]
 ### Ae-Cha
 
 Southern Head of the Adventurers Guild. Renowned for her no-nonsense training methods and strong moral code.
+![[Ae-Cha.png]]
+### Venk
+The finance minister of Portglassia. He is often trusted by Mayor Chim to run aspects of the city that extend beyond the scope of his position, but is incredibly competent in his duties. Before his position in Portglassia, he was said to an import manager within the government of Jimbasa.
+![[Venk.png]]
 
 ### Samsara
 
 Decorated captain of the **Cartesian Royal Knights**, often stationed in or around Portglassia.
+![[Samsara.png]]
+
+
 
 ---
-
+## Additional Information 
 Portglassia is more than a city—it is a threshold. Whether you are here to trade, discover, or begin a legend of your own, you will find the seas whispering stories, and the stones beneath your feet humming with forgotten truths.
 
 > "The tide always returns to Portglassia, even if the ship does not." — Gildas the Mariner

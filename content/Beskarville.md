@@ -3,7 +3,7 @@ title: Beskarville
 draft: false
 tags:
   - LOCATION
-  - "#TOWN"
+  - CITY
 ---
 # Town of Beskarville
 
@@ -14,6 +14,7 @@ tags:
 > **Time Period** | [[The War of the Enlightened]] |
 > Campaigns | [[Hounds of Beskarville]] |
 > World Period | [[Dilatatio et Bellum]] |
+> Regions | [[The Cartas Empire]] |
 > **Arcs** | --- |
 > Plot Arcs | [[The Monster Experiments]] |
 > **Notable Lore** | --- |
@@ -26,7 +27,7 @@ tags:
 > Entities | [[Selune]] |
 > Organizations | [[The Knights of the Moon]], [[Hoth & Wampa]], [[The Order of Yellow]], |
 
-![[content/Media/Descriptive/Beskarville_Entrance.jpg]]
+![[Beskarville_Entrance.png]]
 
 ### Geography
 
@@ -78,7 +79,7 @@ However with the new discovery of the Dwarven Artifact deposits and the influx o
 
 ## Key Town Locations
 
-![[Map of Beskarville.jpg]]
+![[Map of Beskarville.png]]
 ### Inner Beskarville
 
 #### The Town Hall
@@ -106,8 +107,8 @@ The woods on the western side of town. This is where the new vein of mythral art
 
 #### The Passing Star Stones
 An old location within the Endora woods with a couple of stones that have ruins engraved within them. Conversations with town members will clue that it is often used as a play area by the town's children, or a romantic place to go by young adults because of the clear view of the moon.
-![[content/Media/Descriptive/PassingStars_Beskarville.jpg]]
-![[Map-Passing Star Stones Ruins - Day.jpg]]
+![[PassingStars_Beskarville.png]]
+
 
 
 #### The Northern Forest!
@@ -125,3 +126,4 @@ The town's unofficial representative. Kind woman and mother. Wears a moon neckla
 
 ## Hidden Information
 - 
+

@@ -11,7 +11,7 @@ tags:
 Welcome to the world of Vistularia. The continent you find yourselves in, Cartesia is one of mystique, wonder, and soul. Here reigns The Cartas Empire. Your adventure starts in the port city of [[Portglassia]], as you each venture in to be registered as adventurers with the **Adventuring Guild**.
 
 # The Cartas Empire
-## ![[Map of the Cartas Empire.jpg]]
+![[Map of the Cartas Empire.png]]
 
 Politics and Government
 The Cartas Empire is all you have known, a 'democracy' whose rule but moreso influence is felt throughout the land. In reality, this **parliamentary system** is often viewed as merely just a system placed to keep the races in harmonic accordance. 

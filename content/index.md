@@ -5,7 +5,7 @@ title: Welcome to The World of Vistularia
 # The World of Vistularia
 ## [[The Cartas Empire]]
 
-![[Map of the Cartas Empire.jpg]]
+![[Map of the Cartas Empire.png]]
 
 ### Locations
 > Location |Type | Description |

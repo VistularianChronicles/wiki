@@ -8,7 +8,7 @@ tags:
 
 
 # Saoirse Hashim
- - original name(Saorise Taniyn)
+Saorise Taniyn
 
 ## Character Traits
 
@@ -16,13 +16,13 @@ A poised Human with keen gray eyes and a practiced courtly smile, Saoirse walks 
 
 ## Background
 
-Known publicly as Saoirse Hashim, she is secretly Saoirse Taniyn, youngest child of Queen [Elaine Taniyn] III of [Shalteros]. While her elder siblings—Maeve (paladin heir), Cian (knight), and Barry (sorcerer apprentice to the enigmatic [Abaragarza family])—embraced formal roles, Saoirse found royal duties stifling. She was shipped to Alminster’s Academy of Magic in [Muristar] to master wizardry, the prescribed “proper” path for a spare princess.
+Known publicly as Saoirse Hashim, she is secretly Saoirse Taniyn, youngest child of Queen [[Elaine Taniyn]] III of [[Shalteros]]. While her elder siblings—Maeve (paladin heir), Cian (knight), and Barry (sorcerer apprentice to the enigmatic [[Abaragarza family]])—embraced formal roles, Saoirse found royal duties stifling. She was shipped to Alminster’s Academy of Magic in [[Muristar]] to master wizardry, the prescribed “proper” path for a spare princess.
 
-During a field exercise she was ambushed—an assassination attempt masked by miscast teleportation. A mysterious Druid rescued her, sheltering her in a half‑ruined sanctum of The [Order of Yggdrasil] and gifting her a primer on druidic arts. Upon returning to court, Queen Elaine—growing distant of late—visited Saoirse in secret. She asked, “If the right path feels wrong, what will you do?” Saoirse replied, “Follow my own judgment.” The queen smiled sadly, pressed a shard of rusted green amulet into her daughter’s hand, and vanished days later during the Tragedy of the Tides.
+During a field exercise she was ambushed—an assassination attempt masked by miscast teleportation. A mysterious Druid rescued her, sheltering her in a half‑ruined sanctum of The [[Order of Yggdrasil]] and gifting her a primer on druidic arts. Upon returning to court, Queen Elaine—growing distant of late—visited Saoirse in secret. She asked, “If the right path feels wrong, what will you do?” Saoirse replied, “Follow my own judgment.” The queen smiled sadly, pressed a shard of rusted green amulet into her daughter’s hand, and vanished days later during the Tragedy of the Tides.
 
 Imperial officials stonewalled inquiries, rumors were suppressed, and guards whispered of covert sightings along the southern coast. In one hushed corridor Saoirse overheard Adviser Alfred mutter to a cloaked figure: “Elaine… sighting… southern coasts…don’t tell anyone.” Convinced of conspiracy, she withdrew from the academy, deepened her druidic studies, and requested a long‑term illusion from a trusted friend to soften her resemblance to the missing princess.
 
-Armed with arcane and primal magic, Saoirse registered for the [Portglassia ]Adventurers Guild, intent on wielding adventurer resources to uncover the truth—and to decide, on her own terms, what kind of power she will wield.
+Armed with arcane and primal magic, Saoirse registered for the [[Portglassia]]Adventurers Guild, intent on wielding adventurer resources to uncover the truth—and to decide, on her own terms, what kind of power she will wield.
 
 ## Mysteries of Interest
 
