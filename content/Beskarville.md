@@ -2,8 +2,8 @@
 title: Beskarville
 draft: false
 tags:
-  - CITY
   - LOCATION
+  - "#TOWN"
 ---
 # Town of Beskarville
 
