@@ -58,7 +58,7 @@ Currently, there has been a stall in adventurer growth and the Cartas Empire has
 > ---|---|
 > [[Portglassia]] | Western Port City, Adventuring Guild Headquarters|
 > [[Cavaros]] | The City of Mines & Museums, Dwarven Royal Family|
-> [[Jimbasa]] | The City of Trade & Travel, Tiefling Royal Family|
+> [[Jimbasa]] | The City of Trade & Travel, Halfling Royal Family|
 > [[Shalteros]] | The Capital City of Cartas Empire, Central Government |
 > [[Rupa]] | The City of Nature, Wood Elf Royal Family |
 > [[Silinea]] | The City of Magic, High-Elf Royal Family |
